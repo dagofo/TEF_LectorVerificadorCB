@@ -291,7 +291,7 @@ Public Class frmPrincipal
 
                 Dim MyVerOK As New VerifOK
                 MyVerOK.LabelControl1.Text = "PROCESO VERIFICACIÓN"
-                MyVerOK.TextEdit1.Text = "PEQUE ETIQUETAS PARA VERIFICACIÓN"
+                MyVerOK.TextEdit1.Text = "PEGUE ETIQUETAS PARA VERIFICACIÓN"
                 'MyVerOK.TextEdit1.Text = "PEQUE LAS ETIQUETAS ANTES DE CONTINUAR LA VALIDACION"
                 MyVerOK.BackColor = Color.LightSteelBlue
                 MyVerOK.LabelControl1.BackColor = Color.LightSteelBlue
